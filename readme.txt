@@ -1,7 +1,7 @@
 To install this config, copy .tmux.conf to $HOME and the 
 contents of the scripts folder to $HOME/.config/tmux/
 
----
+---------------------------------------------------------------------
 
 Permission to use, copy, modify, and/or distribute this software
 for any purpose with or without fee is hereby granted.
